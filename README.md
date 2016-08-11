@@ -1,1 +1,1 @@
-# fx-best-practices
+# DCGfamily documentation is hosted in the wiki
