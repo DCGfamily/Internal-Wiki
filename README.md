@@ -1,1 +1,1 @@
-# DCGfamily documentation is hosted in the wiki
+DCGfamily documentation is hosted in the wiki
